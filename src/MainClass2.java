@@ -1,8 +1,8 @@
-public class MainClass {
+public class MainClass2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("this si demo");
+		System.out.println("this is demo");
 		
 	}
 
